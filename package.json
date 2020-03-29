@@ -1,0 +1,22 @@
+{
+  "name": "ps-gcfunctions",
+  "version": "1.0.0",
+  "description": "Pluralsight course: Google Cloud Functions: Getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaquelinaG/ps-GCFunctions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaquelinaG/ps-GCFunctions/issues"
+  },
+  "homepage": "https://github.com/JaquelinaG/ps-GCFunctions#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
