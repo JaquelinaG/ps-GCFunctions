@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JaquelinaG/ps-GCFunctions#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
